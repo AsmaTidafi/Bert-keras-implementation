@@ -5,4 +5,4 @@ Requirements:
 - transformers == 3.3.1
 - tokenizers == 0.8.1.rc2
 
-The `glue/QNLI` dataset can be found on https://gluebenchmark.com/ or you can download it from the repository in `\data\QNLI`.
+The `glue/QNLI` dataset can be found on https://gluebenchmark.com/ or can be downloaded it from the repository in `\Data\QNLI`.
